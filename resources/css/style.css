@@ -1,0 +1,35 @@
+body {
+    font-family: helvetica;
+    text-align: center;
+}
+
+.topDiv {
+  background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
+  //w + h make menu vs image easier read
+  //width: 100%;
+  //height: 100%;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.navList {
+  list-style: none !important;
+}
+
+ul.navList li a {
+  font-size: 18px;
+  color: white;
+  line-height: 36px;
+  font-weight: bold;
+  //bold font in line with 1 mock version
+}
+
+
+p {
+  background-image:
+}
