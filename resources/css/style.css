@@ -23,6 +23,22 @@ body {
   color: white;
 }
 
+footer {
+    background-color: dimgray;
+    text-align: left;
+}
+
+footer a {
+  font-size: 14px;
+  color: white;
+}
+
+footer span {
+  font-size: 11px;
+  color: white;
+}
+
+
 h1 {
   font-size: 70px;
   font-weight: bold;
