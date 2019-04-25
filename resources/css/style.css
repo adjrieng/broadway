@@ -11,8 +11,16 @@ body {
   //height: 100%;
 }
 
-.midDiv {
+.midDiv .btmDiv {
   color: black;
+}
+
+#btmDivH2 {
+  background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
 
 h1 {
