@@ -11,14 +11,29 @@ body {
   //height: 100%;
 }
 
+.midDiv {
+  color: black;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 .navList {
   list-style: none !important;
+  margin-left: -40px;
 }
 
 ul.navList li a {
@@ -29,7 +44,6 @@ ul.navList li a {
   //bold font in line with 1 mock version
 }
 
-
 p {
-  background-image:
+  font-size: 14px;
 }
